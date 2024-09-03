@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":456,"text":"Most days, I wake up late."},{"start":3133,"text":"One of my parents usually complains about what I’m wearing. "},{"start":7320,"text":"They don’t get me at all. "},{"start":9716,"text":"School used to be fun but now…every. single. day. I dread it."},{"start":17280,"text":"I’m not like anyone else—I don’t look like the other kids and I don’t want to. "},{"start":22789,"text":"So, I don’t fit in anywhere. "},{"start":26076,"text":"I do okay in my classes, but my math teacher doesn’t like me "},{"start":30600,"text":"and it stresses me out."},{"start":33276,"text":"I’m pretty much always by myself after school. "},{"start":37140,"text":"It can be lonely but gaming helps."},{"start":41136,"text":"I actually have friends online. "}]}]};
+    window.globalLoadJsAsset('story_content/6Xzn2rTo5jK_transcripts.js', JSON.stringify(data));
+})();

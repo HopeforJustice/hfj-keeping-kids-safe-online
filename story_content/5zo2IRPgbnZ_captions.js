@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.63.27674.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:07.296%0D%0AClick%20the%20icons%20to%20learn%20more%20about%20why%20the%20internet%20is%20an%20easy%20place%20for%20predators%20to%20target%20kids.%0D%0A%0D%0A"}')
